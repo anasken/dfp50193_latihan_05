@@ -11,7 +11,7 @@
     <table>
         <?php
         $darab = 7;
-        for($x; $x <= 12; $x++){
+        for($x = 0; $x <= 12; $x++){
             $hasil = $darab * $x;
             ?>    
         <tr>
